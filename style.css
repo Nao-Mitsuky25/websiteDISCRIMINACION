@@ -1,0 +1,187 @@
+body {
+  color: hotpink;
+  font-family: Brush Script MT,Times, serif; 
+ background: #ffe5f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; 
+  border: solid;
+  border-width: 5px;
+border-image: linear-gradient(cyan,darkcyan) 30;
+}
+nav{
+  border: solid; 
+  background-color: yellow;
+    width: 100% 
+  text-align: center;
+}
+img{
+  width: 500px;
+  height: auto;
+  margin: auto; 
+  justify-content: center;
+  align-items: center;
+  
+}
+.intro{
+  color: deeppink; 
+  margin: auto;
+  width: 990px;
+  height: auto;
+  border: solid;
+  border-image: linear-gradient(cyan,#E6E6FA ) 20;
+ font-family: Sacramento;
+}
+.Info{
+  text-align: left;
+  color: hotpink;
+}
+.Info:hover{
+  color: darkviolet;
+}
+
+.etnico{
+  border: inset;
+  border-width: 5px;
+  border-color: violet;
+}
+.etnicismo:hover{
+  color: darkviolet;
+}
+.conborde{
+  margin: auto;
+  height: auto;
+  border-width: 5px; 
+  border: inset;
+  border-color: violet;
+}
+.aspecto{
+  border: inset;
+  border-color: violet;
+  border-width: 5px;
+}
+.tabla{
+text-align: left;
+}
+.religion{
+  border: inset;
+  border-color: violet;
+  border-width: 5px;
+}
+.religiones:hover{
+  color: darkviolet;
+}
+.Genero{
+  border: inset;
+  border-width: 5px;
+  border-color: violet; 
+}
+.Gender:hover{
+  color: darkviolet;
+}
+.tipos{
+  text-align: left; 
+  margin: auto;
+  height: auto;
+  color: hotpink;
+}
+.tipos:hover{
+  color: darkviolet;
+}
+.right{
+  border: inset;
+  border-color: violet;
+  border-width: 5px; 
+}
+.lateral:hover{
+  color: darkviolet;
+}
+.silla{
+  border: inset;
+  border-color: violet; 
+  border-width: 5px; 
+}
+.discapacidad:hover{
+  color: darkviolet;
+}
+.pregnant{
+  border: inset;
+  border-color: violet;
+  border-width: 5px;
+}
+.embarazo:hover{
+  color: darkviolet;
+}
+.discrimenGENERO{
+  border: inset;
+  border-color: white;
+  border-width: 5px;
+}
+.lostipos{
+  border: inset;
+  border-color: white;
+  border-width: 5px;
+}
+.titulo1{
+  color: deeppink;
+}
+.titulo2{
+ color: deeppink; 
+}
+.explicacion:hover{
+  color: darkviolet;
+}
+.tabla{
+  color: 
+}
+.titulo3{
+  color: deeppink; 
+}
+.resumen:hover{
+  color: darkviolet;
+}
+.como{
+  color: deeppink;
+}
+.por{
+  color: purple;
+}
+.tabla{
+  color: white;
+  text-align: left;
+}
+.incluye{
+  color: white;
+  text-align: left;
+}
+.este{
+  color: rebeccapurple;
+  text-align: left;
+}
+.Tipos:hover{
+  color: darkviolet;
+}
+.reflexion{
+  color: #a201a2;
+}
+.gracias{
+  text-align: center;
+  color: black;
+  border-style: dashed;  
+  border-color: purple;
+  animation: 
+  width: 300px;
+  height: auto;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+.links{
+  color: orange;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-justify: left;
+}
+.titulo4{
+  color: deeppink;
+}
